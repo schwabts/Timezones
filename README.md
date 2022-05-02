@@ -66,7 +66,7 @@ pd.options.display.max_columns = None
 display(df)
 
 ```
-
 ```python
 
 ```
+
